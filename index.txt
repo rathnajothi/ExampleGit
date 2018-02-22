@@ -1,1 +1,1 @@
-Welcome to the Git Training
+Welcome to the SCM with Git Training 
