@@ -1,1 +1,2 @@
 Welcome to the SCM with Git Training 
+testing
